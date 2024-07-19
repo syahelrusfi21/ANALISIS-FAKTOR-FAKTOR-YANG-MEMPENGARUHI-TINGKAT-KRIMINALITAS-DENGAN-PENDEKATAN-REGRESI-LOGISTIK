@@ -1,4 +1,4 @@
-# ANALISIS-FAKTOR-FAKTOR-YANG-MEMPENGARUHI-TINGKAT-KRIMINALITAS-DENGAN-PENDEKATAN-REGRESI-LOGISTIK
+# Analisis-Faktor-Faktor-yang-Mempengaruhi-Tingkat-Kriminalitas-dengan-Pendekatan-Regresi-Logistik
 
 Kriminalitas merupakan isu global dengan tingkat kriminalitas yang berbeda-beda 
 di setiap negara. Studi ini menggali faktor-faktor yang mempengaruhi tingkat 
